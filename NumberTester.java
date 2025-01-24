@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -15,8 +15,13 @@ public class NumberTester
 		System.out.println(myNum);
 
 
-		//add more test cases
 
+		//add more test cases
+		Number myNum2 = new Number(243);
+		System.out.println(myNum2);
+
+		myNum2.setNumber(11239);
+		System.out.println(myNum2);
 
 
 
